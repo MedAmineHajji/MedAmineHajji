@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MedAmineHajji, last year engineering student @ESPRIT.
 - 👀 I’m interested in Software development, Web development and DevOps.
-- 🌱 I’m currently learning Laravel and Ionic.
-- 💞️ I’m looking to collaborate on End of Engineering Studies Internship (at least 6 months)
+- 🌱 I’m currently learning NestJS, TypeORM and PostgreSQL.
+- 💞️ I’m looking to collaborate on an End of Engineering Studies Internship (at least 6 months)
 - 📫 You can reach me by email on : mohamedamine.hajji@esprit.tn
 
 <!---
