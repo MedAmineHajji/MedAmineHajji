@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MedAmineHajji, last year engineering student @ESPRIT & currently an intern @Digika.
+- 👋 Hi, I’m @MedAmineHajji, last year engineering student @ESPRIT.
 - 👀 I’m interested in Software development, Web development and DevOps.
 - 🌱 I’m currently learning Laravel and Ionic.
 - 💞️ I’m looking to collaborate on End of Engineering Studies Internship (at least 6 months)
